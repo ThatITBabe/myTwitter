@@ -1,0 +1,10 @@
+.explore{
+    flex: 0.4;
+    background-color: red;
+}
+
+
+.header_explore{
+    display: flex;
+    justify-content: space-evenly;
+}
